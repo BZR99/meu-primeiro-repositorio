@@ -1,11 +1,11 @@
 # meu-primeiro-repositorio
-Exercício
+TESTE
 
-github
+PRATICA
 
-Branch
+REFORCE
 
-pull request
+vai vai vai
 
 
 Alimentos
