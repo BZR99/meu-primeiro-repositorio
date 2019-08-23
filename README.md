@@ -1,6 +1,11 @@
 # meu-primeiro-repositorio
 Exercício
-DE
+
+github
+
+Branch
+
+pull request
 
 
 Alimentos
