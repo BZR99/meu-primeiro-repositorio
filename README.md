@@ -1,7 +1,12 @@
 # meu-primeiro-repositorio
-O primeiro branch no GITHUB
+Exercício
 
-Eita
+github
+
+Branch
+
+pull request
+
 
 Alimentos
 
