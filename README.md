@@ -1,7 +1,7 @@
 # meu-primeiro-repositorio
-O primeiro branch no GITHUB
+Exercício
+DE
 
-Eita
 
 Alimentos
 
